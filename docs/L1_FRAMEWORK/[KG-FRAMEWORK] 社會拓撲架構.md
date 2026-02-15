@@ -1,4 +1,4 @@
-# [KG-META] 社會拓撲架構
+# 社會拓撲架構
 
 ## 1. Executive Summary
 
@@ -58,6 +58,6 @@ Supports: Thermodynamic Dissipative Structures (Prigogine), Control Theory (PID 
 
 Drill-Down (Next Layer Only):
 
-For details on the hardware specifications of the node: [KG-CORE] 智人節點：文明計算的微觀架構.md
+For details on the hardware specifications of the node: [KG-MODEL] 智人節點：文明計算的微觀架構.md
 
-For details on the neural parameters regulating topology: [KG-CORE] 神經動力學與認知架構.md
+For details on the neural parameters regulating topology: [KG-MODEL] 神經動力學與認知架構.md

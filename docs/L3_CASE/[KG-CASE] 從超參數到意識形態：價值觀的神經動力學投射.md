@@ -1,8 +1,8 @@
-# [KG-EDGE] 從超參數到意識形態：價值觀的神經動力學投射
+# 從超參數到意識形態：價值觀的神經動力學投射
 
 From Hyperparameters to Ideology: The Neuro-Dynamic Projection of Values
 
-> **本文為推論延伸 (Derived Extension)**，橋接微觀的智人節點超參數（參閱 **[KG-CORE] 智人節點的超參數設定**）與宏觀的社會拓撲結構（參閱 **[KG-CORE] 社會拓撲：文明計算圖的宏觀架構**）。
+> **本文為推論延伸 (Derived Extension)**，橋接微觀的智人節點超參數（參閱 **[KG-MODEL] 智人節點的超參數設定**）與宏觀的社會拓撲結構（參閱 **[KG-MODEL] 社會拓撲：文明計算圖的宏觀架構**）。
 
 ---
 
@@ -78,4 +78,4 @@ From Hyperparameters to Ideology: The Neuro-Dynamic Projection of Values
   * **H 態 (高耦合)**：當環境友善時，開啟 H 態以獲取資源與支持。
   * **C 態 (低耦合)**：當環境過載時，開啟 C 態以屏蔽雜訊並保護核心硬體。
 
-> **註**：更完整的宏觀社會拓撲動力學分析，請參閱 **[KG-CORE] 社會拓撲：文明計算圖的宏觀架構**。
+> **註**：更完整的宏觀社會拓撲動力學分析，請參閱 **[KG-MODEL] 社會拓撲：文明計算圖的宏觀架構**。

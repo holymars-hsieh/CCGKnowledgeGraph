@@ -1,4 +1,4 @@
-# 文明計算圖：三重網共生 
+# 文明計算圖：三重網共生
 
 # The Civilization Computing Graph: Triple Mesh Symbiosis
 

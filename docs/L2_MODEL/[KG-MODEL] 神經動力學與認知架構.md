@@ -1,4 +1,4 @@
-# [KG-CORE] 神經動力學與認知架構
+# 神經動力學與認知架構
 
 Neural Dynamics & Cognitive Architecture
 

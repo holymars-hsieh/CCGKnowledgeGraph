@@ -65,10 +65,10 @@ Transformer 的頻率極端性: 傳統 Transformer 架構僅包含兩個極端�
 
 ## 5. Theoretical Linkage & Drill-Down
 
-Supports: [KG-ROOT] 文明計算圖 (Axiom 3: Nested Optimization), Neuroplasticity, Control Theory.
+Supports: [KG-AXIOM] 文明計算圖 (Axiom 3: Nested Optimization), Neuroplasticity, Control Theory.
 
 Drill-Down (Next Layer Only):
 
-For the original mathematical proofs and experiments, see: [KG-CORE] Nested Learning.pdf
+For the original mathematical proofs and experiments, see: [KG-MODEL] Nested Learning.pdf
 
-For the specific implementation architecture (HOPE/H-Prism), see: [KG-CORE] H-Prism.pdf
+For the specific implementation architecture (HOPE/H-Prism), see: [KG-MODEL] H-Prism.pdf

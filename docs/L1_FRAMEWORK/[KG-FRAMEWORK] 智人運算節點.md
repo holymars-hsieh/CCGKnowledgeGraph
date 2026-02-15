@@ -1,4 +1,4 @@
-# [KG-META] 智人運算節點 (The Sapiens Computational Node)
+# 智人運算節點 (The Sapiens Computational Node)
 
 ## 1. Executive Summary
 
@@ -79,12 +79,12 @@ The Consensus Ledger (L6): 當多個節點的 L5 模型發生狀態同步 (Synch
 
 ## 5. Theoretical Linkage & Drill-Down
 
-Supports: [KG-ROOT] Civilization Computing Graph (Civilization as a distributed computer).
+Supports: [KG-AXIOM] Civilization Computing Graph (Civilization as a distributed computer).
 
 Drill-Down (Core Layers):
 
-For Architecture details: [KG-CORE] 智人節點：文明計算的微觀架構.md
+For Architecture details: [KG-MODEL] 智人節點：文明計算的微觀架構.md
 
-For Operating System dynamics: [KG-CORE] 神經動力學與認知架構.md
+For Operating System dynamics: [KG-MODEL] 神經動力學與認知架構.md
 
-For Parameter Matrix: [KG-CORE] 智人節點的超參數設定.md
+For Parameter Matrix: [KG-MODEL] 智人節點的超參數設定.md

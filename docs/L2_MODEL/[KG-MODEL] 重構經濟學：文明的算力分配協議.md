@@ -1,4 +1,4 @@
-# [KG-CORE] 重構經濟學：文明的信號工程
+# 重構經濟學：文明的信號工程
 
 Refactoring Economics: Civilization's Signal Engineering
 
@@ -10,7 +10,7 @@ Preface: Physics Envy vs. Computational Reality
 
 但在熱力學中，均衡等於死亡 (Heat Death)。
 
-如果我們將視角拉高，從 [KG-ROOT] 文明計算圖 (Civilization Computing Graph, CCG) 的視角俯瞰，會發現經濟體根本不是一個尋求靜止的物理系統，而是一台龐大的、並行的、容錯的分佈式電腦。
+如果我們將視角拉高，從 [KG-AXIOM] 文明計算圖 (Civilization Computing Graph, CCG) 的視角俯瞰，會發現經濟體根本不是一個尋求靜止的物理系統，而是一台龐大的、並行的、容錯的分佈式電腦。
 
 舊範式： 經濟是物資的流動（流體力學）。
 

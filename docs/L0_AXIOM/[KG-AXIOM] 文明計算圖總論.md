@@ -1,4 +1,4 @@
-# **\[KG-ROOT\] 文明計算圖總論 (The Civilization Computing Graph)**
+# **文明計算圖總論 (The Civilization Computing Graph)**
 
 ## **1\. Executive Summary**
 
@@ -81,12 +81,12 @@
 本文件為 \[KG\] 知識圖譜的根目錄。更多細節請參閱 META 層級文件：
 
 * **Micro-Architecture (Nodes):**
-  * *See:* **\[KG-META\] 智人運算節點.md** (Hardware specifications & MBTI Matrix)
+  * *See:* **\[KG-FRAMEWORK\] 智人運算節點.md** (Hardware specifications & MBTI Matrix)
 * **Learning Dynamics (Algorithms):**
-  * *See:* **\[KG-META\] 遞迴優化與時序幾何.md** (Optimization loops & Memory)
+  * *See:* **\[KG-FRAMEWORK\] 遞迴優化與時序幾何.md** (Optimization loops & Memory)
 * **Macro-Structure (Network):**
-  * *See:* **\[KG-META\] 社會拓撲架構.md** (Tree/Mesh physics & History)
+  * *See:* **\[KG-FRAMEWORK\] 社會拓撲架構.md** (Tree/Mesh physics & History)
 * **Evolutionary Path (History):**
-  * *See:* **\[KG-META\] 文明演化架構：熵減機制與遞迴危機.md** (From Mesopotamia to Liquid Modernity)
+  * *See:* **\[KG-FRAMEWORK\] 文明演化架構：熵減機制與遞迴危機.md** (From Mesopotamia to Liquid Modernity)
 * **Future Trajectory (Teleology):**
-  * *See:* **\[KG-META\] 文明意識熱力學與碳矽對齊框架.md** (AI Alignment & Thermodynamics)
+  * *See:* **\[KG-FRAMEWORK\] 文明意識熱力學與碳矽對齊框架.md** (AI Alignment & Thermodynamics)

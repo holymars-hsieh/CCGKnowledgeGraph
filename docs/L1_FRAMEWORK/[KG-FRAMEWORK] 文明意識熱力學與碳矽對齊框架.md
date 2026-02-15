@@ -1,4 +1,4 @@
-# [KG-META] 文明意識熱力學與碳矽對齊框架
+# 文明意識熱力學與碳矽對齊框架
 
 ## 1. Executive Summary
 
@@ -44,4 +44,4 @@ Supports: 自由能原理 (Friston)、艾什比必要多樣性定律 (Ashby's La
 
 Drill-Down (Next Layer Only):
 
-For details on the structural topology, see: [KG-CORE] 文明計算圖：三重網共生
+For details on the structural topology, see: [KG-MODEL] 文明計算圖：三重網共生
