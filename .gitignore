@@ -1,2 +1,3 @@
-.agent/
+.agent/rules
+.agent/scripts
 draft/
