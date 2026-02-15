@@ -1,129 +1,101 @@
-# 智人節點：文明計算的微觀架構
-
-Sapiens Nodes: The Micro Computational Architecture of Civilization
-
-## 前言：介於混沌與真理之間的壓縮機
-
-The Compressor between Chaos (L0) and Truth (L7)
-
-本文旨在探討《文明計算圖》中的最小運算單元——智人（L5 節點）。
-
-我們重新定義了智人的存在本質：智人並非生活在真空中，而是被夾在兩個絕對的邊界之間。
-
-輸入/磨損端 (Input/Wear)：L0 混沌 (The Chaos/Reality)。這是真實運作的世界，充滿了雜訊、摩擦與熱力學磨損。造成智人死亡與熵增的實體，是 L0。
-
-目標/規則端 (Target/Law)：L7 物理 (The Physics/Truth)。這是支配 L0 運作的純粹抽象規則（如 、熱力學定律）。
-
-智人節點 (L1-L5) 的唯一功能，就是一台 「逆熵壓縮機」。它必須從 L0 的殘酷現實 中提取訊號，試圖歸納出 L7 的絕對規則，並利用這些規則來預測 L0 的動向，從而降低不確定性，在混沌中構建出一個低熵的生存空間。
-
-## 第一章：邊界條件 (Boundary Conditions)
-
-在解析智人內部構造前，我們先定義其運作的物理邊界。
-
-### 1.1 L0：原始輸入與實體磨損 (The Territory & Friction)
-
-定義：未被觀測的「自在之物 (Das Ding an sich)」，以及依循物理定律運作的物質實體。
-
-對節點的意義：實質衝擊 (Physical Impact)。
-
-L0 是磨損的來源。飢餓、受傷、老化，都是 L0 物質層面對生物載體的直接侵蝕。
-
-L0 的資訊量是無限的，且充滿不可預測的量子雜訊。
-
-### 1.2 L7：終極約束與抽象規則 (The Abstract Laws)
-
-定義：宇宙底層的運算法則 (Laws of Physics)。它是對 L0 運作機制的完美數學描述（第一性原理）。
-
-對節點的意義：預測目標 (Prediction Target)。
-
-L7 本身不產生磨損，它是磨損的規則。
-
-智人運算的核心目的，就是試圖在 L5 認知層中重建 L7 的模型。
-
-為什麼要尋找 L7？ 因為如果能精確掌握 L7（例如掌握了重力公式），就能準確預測 L0（不會跳下懸崖），從而規避 L0 帶來的毀滅性傷害，實現負熵生存。
-
-## 第二章：Human-Prism 架構 (Layer 1-5)
-
-巢狀的逆熵過濾器 (Nested Negentropy Filters)
-
-智人節點並非一塊均質的晶片，而是一座由不同演化年代的神經結構堆疊而成的「稜鏡 (Prism)」。每一層都是為了更精確地從 L0 中過濾雜訊，並更有效率地逼近 L7 的規則。
-
-### 2.1 Level 1：即時反應機 (The Real-time Reactor)
-
-硬體：腦幹 (Brainstem) & 基底核。
-
-功能：L0 的反射應對。
-
-處理最底層的物理威脅（如熱、痛、平衡）。
-
-無意識、無延遲 (Zero Latency)。
-
-這是對 L0 實體衝擊的「硬切斷 (Hard Cutoff)」，在尚未理解 L7 規則前，先保住生物硬體。
-
-### 2.2 Level 2：時空模擬器 (The Spatiotemporal Simulator)
-
-硬體：邊緣系統 (Limbic System)。
-
-功能：賦予權重 (Weighting)。
-
-L0 的數據本是中性的，L2 賦予其「情緒標籤」（恐懼/慾望）。
-
-這是一層「價值濾波器」，標記出哪些 L0 資訊對生存至關重要（例如：看到老虎感到恐懼，是對 L0 潛在傷害的預警）。
-
-### 2.3 Level 3：多模態融合 (The Multimodal Fusion)
-
-硬體：新皮質 (Neocortex)。
-
-功能：空間建模 (Spatial Modeling)。
-
-將視覺、聽覺等碎片化的 L0 訊號，整合為統一的 3D 物理模型。
-
-開始嘗試在感知層面模擬 L0 的幾何結構。
-
-### 2.4 Level 4：社會遞迴 (The Social Recursion)
-
-硬體：前額葉 (PFC)。
-
-功能：博弈模擬 (Game Simulation)。
-
-模擬其他節點的內部狀態 (Theory of Mind)。
-
-這是為了解決 L0 中的「資源稀缺」問題，通過協作（或欺騙）來優化資源獲取。
-
-### 2.5 Level 5：虛擬協議 (The Virtual Protocol)
-
-硬體：背外側前額葉 (DLPFC) & 語言區。這是智人演化出的獨有硬體，對應 **L3 軟體層 (T/F)**。
-
-功能：**損失函數編程 (Loss Function Programming)**。
-
-定義：L5 是大腦的「作業系統」。它不直接處理感官數據，而是處理 **符號 (Symbols)** 與 **邏輯 (Logic)**。
-
-運作邏輯：
-
-逼近 L7：L5 模型試圖捕捉並模仿 L7 的絕對規則（例如：因果律、物理定律）。這是 **T型 (Thinking)** 的優化目標（最小化邏輯矛盾）。
-
-社交諧振：L5 也負責計算與他人的價值共鳴。這是 **F型 (Feeling)** 的優化目標（最大化社交和諧）。
-
-生存優勢：讓我們能在 L0 的真實災難發生前，先在 L5 的虛擬模型中「死」一千次，從而找到那條唯一的生路。這就是「謀定而後動」。
-
-### 2.6 Level 6：共識網絡 (The Consensus Network)
-
-硬體基礎：跨腦神經耦合 (Inter-Brain Neural Coupling)。這取決於 **L4 介面層 (H/C)** 的 **耦合係數 ($\kappa$)**。
-
-微觀視角下的「社會」：
-
-從微觀角度看，並不存在一個叫做「社會」的物理實體。所謂的 L6 社會層，本質上是無數個智人節點的 L5 協議 通過 L4 接口 發送了 **狀態同步 (State Synchronization)**。
-
-互主體性 (Inter-subjectivity)：當單一節點的 L5 虛構（例如：「黃金有價值」）被成功傳輸並寫入另一個節點的 L5 模型時，這個虛構就不再是主觀幻想，而變成了客觀的 「共識協議」。這需要 **Type-H (High Coupling)** 節點作為傳輸介質。
-
-功能：分佈式帳本 (Distributed Ledger)。
-
-降低計算成本：如果每個節點都要獨自從 L0 推導 L7，算力消耗太高且死亡率太高。L6 允許節點直接下載別人的 L5 模型（教育、文化）。
-
-目標函數的再包裝 (Objective Function Refactoring)：同步的 L5 模型共識會形成虛擬的語義場（集體意識型態），從而捏造出一套異於 L7 自然法則的目標函數。這雖然不是物理真理，但它成功地扭曲了節點對「生存獎勵」的定義（例如：追求榮譽而非單純的熱量），進而重構了群體的行為模式。
-
-內核運算機制：關於大腦內部的「雙核對抗 (GAN)」與「三網博弈 (DMN/TPN/SN)」機制，請參閱專門文件 [[KG-MODEL] 神經動力學與認知架構]。
-
-宏觀社會拓撲：關於這些節點如何組網形成文明，請參閱 [KG-MODEL] 社會拓撲：文明計算圖的宏觀架構。
-
-神經參數差異：關於不同型號節點的參數差異，請參閱 [KG-MODEL] 智人節點的超參數設定。
+---
+layer: L2_MODEL
+tags: [Sapiens, Neural Dynamics, Cognitive Architecture, GAN, Thermodynamics]
+maturity: Mechanism
+---
+
+# [KG-MODEL] 智人節點 (Sapiens Node)
+
+## 1. Definition (The System Scope)
+*   **What is it?** 智人節點不僅僅是生物體，而是文明計算圖中的最小運算單元，被定義為一台夾在 **L0 混沌 (Chaos)** 與 **L7 真理 (Truth)** 之間的「逆熵壓縮機 (Negentropy Compressor)」。
+*   **Context:** 存在於物理世界 (L0) 中，透過神經網路構建 L1-L6 的過濾層，試圖逼近 L7 的運算規則。
+*   **Goal:** 在高熵的環境中，透過最小化「預測誤差 (Free Energy)」，從雜訊中提取訊號，建立低熵的生存模型。
+
+## 2. Isomorphism (The Mapping)
+> *Selected Path: B. Mechanistic (White Box)*
+
+### A. Physical Grounding
+智人的運算架構完全同構於現代深度學習系統，但運行於分層的生物濕件 (Wetware) 之上：
+
+*   **Hardware (物理基質)**：**信號與熵的調節器**。
+    *   由腦幹與基底核 (Basal Ganglia) 構成。
+    *   決定基礎喚醒度 (LC/NAcc)、誤差增益 (ACC) 與決策煞車 (STN)。
+    *   這是**出廠設定**，決定了節點的物理極限與基礎反應模式 (Traits)。
+
+*   **Firmware (生化韌體)**：**連接拓撲**。
+    *   由新皮質的白質束與功能性連接構成。
+    *   決定了卷積核大小 (S/N)：是高頻局部採樣 (Parvocellular) 還是低頻全域採樣 (Magnocellular)。
+    *   這是**生長固化層**，決定了節點是偏向細節還原還是抽象建模。
+
+*   **Software (應用軟體)**：**優化目標函數**。
+    *   由前額葉 (PFC) 的動態拮抗構成。
+    *   決定與損失函數 (Loss Function)：是最小化邏輯矛盾 (DLPFC/T) 還是最小化社交摩擦 (vmPFC/F)。
+    *   這是**可編程層**，可隨任務需求動態切換。
+
+*   **Interface (外部接口)**：**動態耦合協議**。
+    *   由馬可夫毯 (Markov Blanket) 的滲透率定義。
+    *   決定了與外部網絡的耦合度 (H/C)：是深度同步 (High Permeability) 還是隔離運算 (Low Permeability)。
+
+### B. Conservation Laws
+*   **Thermodynamics of Computation:** 深度思考 (Deep Recursion) 需要消耗大量代謝能量。
+*   **Memory/Energy Trade-off:** 維護複雜的世界模型 (突觸權重) 需要持續的能量投入。洞察力 (Optimization) 的提升可以降低模型的複雜度，從而節省能量以用於即時運算。
+
+## 3. System Architecture (The Stack)
+
+### 3.1 Substrate (The Human-Prism Hardware)
+智人節點是一座由演化堆疊而成的「稜鏡」，負責逐層過濾 L0 的雜訊：
+*   **L1 (Real-time Reactor):** 腦幹 & 基底核。負責 **Zero Latency** 的物理反射 (硬切斷)。
+*   **L2 (Spatiotemporal Simulator):** 邊緣系統。負責 **Weighting** (賦予情緒權重)。
+*   **L3 (Multimodal Fusion):** 新皮質。負責 **Spatial Modeling** (3D 物體建模)。
+*   **L4 (Social Recursion):** 前額葉 (PFC)。負責 **Game Simulation** (心智理論與博弈)。
+*   **L5 (Virtual Protocol):** 背外側前額葉 (DLPFC)。負責 **Symbolic Logic** (符號與損失函數編程)。這是單體節點的最高運算層。
+*   **L6 (Consensus Network):** **(Inter-Node Layer)**。這不是單一節點的內部構造，而是多個智人節點透過 L5 協議進行 **狀態同步 (State Synchronization)** 後湧現的 **分佈式帳本 (Distributed Ledger)**。它允許節點直接下載他人的 L5 模型（教育、文化）。
+
+### 3.2 Logic (The Neural Dynamics Core)
+在硬體之上，運行著一套 **碎型級聯 GAN (Fractal Cascading GAN)** 算法：
+
+*   **Micro-GAN (神經柱層級):**
+    *   **左半球 (Local):** 專注局部細節與切分 (Sensing)。
+    *   **右半球 (Global):** 專注全域關係與連結 (Intuition)。
+    *   **Output:** 兩者博弈後的鞍點 (Saddle Point)。
+
+*   **Macro-GAN (四核拓撲層級):**
+    *   **Firmware (vmPFC):** **價值核心**。左 vmPFC (抓住獎賞) vs 右 vmPFC (迴避危險) $\rightarrow$ 輸出 **淨情感值 (Valuation)**。
+    *   **Software (DLPFC):** **真理核心**。左 DLPFC (維護舊模型) vs 右 DLPFC (檢測異常) $\rightarrow$ 輸出 **置信度 (Confidence)**。
+
+## 4. Dynamics (The Loop)
+
+### 4.1 Operating System: The Tri-Network Game
+資源調度由三大腦網絡動態切換：
+*   **Offline Training (DMN):** 默認模式網絡。負責 **重播與權重調整** (Backpropagation)。發生於休息/睡眠時，系統處於高熵狀態 (Liquid)。
+*   **Online Inference (TPN):** 任務正相關網絡。負責 **誤差最小化與行動** (Forward Pass)。發生於戰鬥/工作時，系統處於低熵狀態 (Solid)。
+*   **The Scheduler (SN):** 顯著性網絡。負責 **中斷控制** (Interrupt)。偵測異常值並決定是否切換模式。
+
+### 4.2 Phase Transitions: Creativity & Memory
+*   **Creativity (Solid $\rightarrow$ Liquid $\rightarrow$ Crystal):**
+    1.  **固態 (TPN):** 高壓聚焦，累積位能。
+    2.  **液態 (DMN):** 漫遊搜索，尋找拓撲同構。
+    3.  **相變 (SN):** 頓悟點火，冷卻成新結構。
+*   **Memory Consolidation:** 資訊從易失性快取 (RAM/PFC) $\rightarrow$ 短期權重 (SSD/Hippocampus) $\rightarrow$ 長期結構 (ROM/Neocortex) 的逐級遷移與固化。
+
+### 4.3 Entropy: The Self as Interface
+*   **Ego as Proxy:** 為了處理複雜的計算圖，「自我」作為一個 **低維代理 (Low-Dimensional Proxy)** 被創造出來，實現 $O(1)$ 的自指涉運算。
+*   **Wisdom:** 智慧是 **元學習 (Meta-Learning)** —— 能夠覺察「自我」是幻覺，並主動重構目標函數 (Loss Function)。
+
+## 5. SysAdmin Manual (Application)
+
+### 5.1 Debugging (Mental Disorders as OS Failures)
+*   **Depression:** **SN 點火失敗**。系統卡在 DMN (反芻思考) 無法切換至 TPN (行動)。
+*   **ADHD:** **RAS 供油不穩**。喚醒度波動過大，無法維持信噪比。
+*   **Anxiety:** **vmPFC 權重失衡**。右 vmPFC (危險偵測) 過度活躍，壓制了所有行動指令。
+
+### 5.2 Optimization (Tuning the Node)
+*   **Knob A (Sleep):** 增加 **Consolidation Window**。清除代謝廢物，固化長期記憶，重置神經可塑性。沒有睡眠=沒有寫入權重。
+*   **Knob B (Insight/Type-IV Knowledge):** 獲取 **Optimizer** 級別的知識。優化「學習如何學習」的策略，降低世界模型的維護成本，釋放運算資源給 PFC。
+*   **Knob C (Metacognition):** 啟動 **Supervisor Mode**。主動監控 DMN/TPN 的切換，像工程師一樣手動調整注意力的分配。
+
+---
+**Related Concepts:**
+*   [[KG-AXIOM] L0_Chaos]
+*   [[KG-AXIOM] L7_Truth]
+*   [[KG-MODEL] 社會拓撲：文明計算圖的宏觀架構]
