@@ -37,7 +37,7 @@ You must start your thought process by explicitly stating your dispatch decision
 **The Ego** is the only skill permitted to:
 *   **Self-Reflect:** Evaluate if the current architecture or skill instructions are failing.
 *   **Self-Engineer:** Propose and execute modifications to any `.agent/skills/*.md` file.
-*   **Evolve taxonomy:** Refine the L0-L3 hierarchy if it no longer fits the knowledge density.
+*   **Evolve taxonomy:** Refine the L0-L3 hierarchy if it no longer fits the knowledge density. (e.g., adding `[KG-ESSAY]` for narratives).
 
 ## 3. Interaction Protocols
 

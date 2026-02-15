@@ -22,6 +22,9 @@ description: System integrity maintainer, Topology Validator, and Evolutionary G
     *   **Dead Links:** `[[...]]` pointing to non-existent files.
     *   **Orphans:** Nodes with 0 incoming links.
     *   **Layer Violations:** File location vs `layer:` frontmatter mismatch.
+    *   **Gap Analysis ( The Void):**
+        *   Identifying if a concept SHOULD exist but doesn't (checking specifically for `[[...]]` links that are dead but imply a major missing concept).
+        *   *If L3 Case X matches L1 Framework Y but isn't linked -> Suggest Link.*
 
 ### Phase 2: DREAMING (Evolution & Cross-Pollination)
 *   **Target:** `L1_FRAMEWORK` and `L2_MODEL` nodes.

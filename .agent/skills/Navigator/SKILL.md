@@ -18,17 +18,18 @@ description: Rapid Indexing, Routing Engine & Knowledge Retrieval.
 
 ## 2. Search Protocols
 
-### Protocol A: Index Scan (Fastest)
-*   **Action:** Scan file headers (`# Title`), Frontmatter (`layer: ...`), and Tags (`tags: [...]`).
-*   **Use Case:** User asks "Do we have a model for 'Entropy'?" or "List all cases related to 'Inflation'."
+### Protocol A: Index Scan (Prioritized)
+*   **Tier 1 (Core Models):** Scan `#[KG-MODEL]` and `#[KG-FRAMEWORK]` files. Focus on `Definition`, `Mechanism`, and `Structure`.
+*   **Tier 2 (Narrative / Essay):** Scan `essays/` ONLY if:
+    *   Tier 1 yields no results.
+    *   Query explicitly asks for "context", "story", or "explanation".
+    *   *Method:* Scan Metadata Only (Title/Tags) first. Full-text scan is expensive.
 
 ### Protocol B: Pathfinding (Contextual)
 *   **Action:** Follow upstream/downstream links (`[[...]]`) from a specific node.
 *   **Use Case:** "Trace the axioms behind this specific case." (L3 -> L2 -> L0).
 
-### Protocol C: The Void Check (Negative Capability)
-*   **Action:** Identify if a concept SHOULD exist but doesn't.
-*   **Output:** "Knowledge Gap Detected. We have related concepts [[A]], [[B]], but no direct file for X." -> *Signal for DeepThinker to generate.*
+
 
 ## 3. Output Schema (The Route)
 
@@ -40,5 +41,4 @@ description: Rapid Indexing, Routing Engine & Knowledge Retrieval.
 *   **🌌 Constellation (Related):**
     *   "No direct file, but found relevant cluster: [[A]], [[B]]."
     *   *Why relevant:* "They share the tag 'Thermodynamics'."
-*   **🕳️ The Void:**
-    *   "No match found. Suggest generating new [L2 Model]."
+

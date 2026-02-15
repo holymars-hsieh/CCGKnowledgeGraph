@@ -21,7 +21,9 @@ description: ETL Engine for Knowledge Compression & Quality Assurance.
 
      * **L0_AXIOM:** Universal truths, philosophy. -> Use `templates/L0_Axiom_Template.md`
      * **L1_FRAMEWORK:** System architecture, protocols. -> Use `templates/L1_Framework_Template.md`
+     * **L1_ESSAY:** Narrative explanations of protocols. -> Use `templates/L1_Essay_Template.md`
      * **L2_MODEL:** Domain theories, models. -> Use `templates/L2_Model_Template.md`
+     * **L2_ESSAY:** Narrative explanations, deep dives. -> Use `templates/L2_Essay_Template.md`
      * **L3_CASE:** Specific cases, signals. -> Use `templates/L3_Case_Template.md`
    * **MANDATORY:** You **MUST** read the selected template file using `view_file` before generating content. Do not guess the format.
 
@@ -39,4 +41,5 @@ description: ETL Engine for Knowledge Compression & Quality Assurance.
 
 4. **GENERATION:**
    * Output the content following the specific structure of the chosen template.
-   * Save to `docs/Lx_NAME/{{Topic}}.md`.
+   * **Models:** Save to `docs/Lx_NAME/{{Topic}}.md`.
+   * **Essays:** Save to `docs/Lx_NAME/essays/{{Topic}}.md`.
