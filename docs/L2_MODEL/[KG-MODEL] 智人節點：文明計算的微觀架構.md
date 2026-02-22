@@ -22,8 +22,8 @@ maturity: Mechanism
 * **Hardware (物理基質)**：**信號與熵的調節器**。
 
   * 由腦幹與基底核 (Basal Ganglia) 構成。
-  * 決定基礎喚醒度 (LC/NAcc)、誤差增益 (ACC) 與決策煞車 (STN)。
-  * 這是**出廠設定**，決定了節點的物理極限與基礎反應模式 (Traits)。
+  * 決定基礎喚醒度 (LC/NAcc)、誤差增益 (ACC/穩壓閾值) 與決策煞車 (STN/收斂臨界點)。
+  * 這是**出廠設定**，決定了節點的熱力學極限與對抗熵增的基礎策略 (Traits)。
 * **Firmware (生化韌體)**：**連接拓撲**。
 
   * 由新皮質的白質束與功能性連接構成。
@@ -34,10 +34,10 @@ maturity: Mechanism
   * 由前額葉 (PFC) 的動態拮抗構成。
   * 決定與損失函數 (Loss Function)：是最小化邏輯矛盾 (DLPFC/T) 還是最小化社交摩擦 (vmPFC/F)。
   * 這是**可編程層**，可隨任務需求動態切換。
-* **Interface (外部接口)**：**動態耦合協議**。
+* **Interface (外部接口)**：**動態電源管理協議**。
 
-  * 由馬可夫毯 (Markov Blanket) 的滲透率定義。
-  * 決定了與外部網絡的耦合度 (H/C)：是深度同步 (High Permeability) 還是隔離運算 (Low Permeability)。
+  * 由 **腦島 (Insula / The CFO)** 計算內外應力後拋出的虛擬沙盒。
+  * 決定了與外部網絡的代謝耦合度 (H/C)：是啟動昂貴心智理論的耗能廣播 (H 態) 還是切斷感知的省電隔離 (C 態)。
 
 ### B. Conservation Laws
 
@@ -53,8 +53,8 @@ maturity: Mechanism
 * **L1 (Real-time Reactor):** 腦幹 & 基底核。負責 **Zero Latency** 的物理反射 (硬切斷)。
 * **L2 (Spatiotemporal Simulator):** 邊緣系統。負責 **Weighting** (賦予情緒權重)。
 * **L3 (Multimodal Fusion):** 新皮質。負責 **Spatial Modeling** (3D 物體建模)。
-* **L4 (Social Recursion):** 前額葉 (PFC)。負責 **Game Simulation** (心智理論與博弈)。
-* **L5 (Virtual Protocol):** 背外側前額葉 (DLPFC)。負責 **Symbolic Logic** (符號與損失函數編程)。這是單體節點的最高運算層。
+* **L4 (Social Recursion):** 腦島 (Insula) 與 前額葉 (PFC)。負責 **Resource Allocation & Game Sim** (代謝電源預算與博弈)。
+* **L5 (Virtual Protocol):** 背外側前額葉 (DLPFC)。負責 **Symbolic Logic** (符號與穩態損失函數編程)。這是單體節點的最高運算層。
 * **L6 (Consensus Network):** **(Inter-Node Layer)**。這不是單一節點的內部構造，而是多個智人節點透過 L5 協議進行 **狀態同步 (State Synchronization)** 後湧現的 **分佈式帳本 (Distributed Ledger)**。它允許節點直接下載他人的 L5 模型（教育、文化）。
 
 ### 3.2 Logic (The Neural Dynamics Core)
@@ -91,8 +91,13 @@ maturity: Mechanism
 
 ### 4.3 Entropy: The Self as Interface
 
-* **Ego as Proxy:** 為了處理複雜的計算圖，「自我」作為一個 **低維代理 (Low-Dimensional Proxy)** 被創造出來，實現 $O(1)$ 的自指涉運算。
-* **Wisdom:** 智慧是 **元學習 (Meta-Learning)** —— 能夠覺察「自我」是幻覺，並主動重構目標函數 (Loss Function)。
+* **Ego as Proxy:** 為了處理複雜的計算圖，「自我」作為一個由腦島掌管的 **低維代理 (Low-Dimensional Proxy)** 被創造出來，負責控制介面熱耗，實現 $O(1)$ 的自指涉運算。
+* **Wisdom:** 智慧是 **元學習 (Meta-Learning)** —— 能夠覺察「自我」或「價值觀」皆是代謝預算的妥協產物，並主動重構目標函數 (Loss Function)。
+
+### 4.4 The Limit: Margin Call (強制平倉)
+
+* **Mechanism:** 當長期環境的「外應力」或逆練硬體的「內應力」累積突破肉體發電閾值 (代謝破產)。
+* **Phase Change:** 藍斑核釋放大量去甲腎上腺素 (NE) 發動「神經淬火」。強制切斷 PFC 模擬迴路，沒收 Ego 控制權，使節點瞬間退回硬體最低耗能基線 (Hyper-T/F)。
 
 ## 5. SysAdmin Manual (Application)
 
@@ -105,8 +110,9 @@ maturity: Mechanism
 ### 5.2 Optimization (Tuning the Node)
 
 * **Knob A (Sleep):** 增加 **Consolidation Window**。清除代謝廢物，固化長期記憶，重置神經可塑性。沒有睡眠=沒有寫入權重。
-* **Knob B (Insight/Type-IV Knowledge[:** 獲取 **Optimizer** 級別的知識。優化「學習如何學習」的策略，降低世界模型的維護成本，釋放運算資源給 PFC。
-* **Knob C (Metacognition):** 啟動 **Supervisor Mode**。主動監控 DMN/TPN 的切換，像工程師一樣手動調整注意力的分配。
+* **Knob B (Insight/Type-IV Knowledge):** 獲取 **Optimizer** 級別的知識。優化「學習如何學習」的策略，降低世界模型的維護成本，釋放運算資源給 PFC。
+* **Knob C (Metacognition):** 啟動 **Supervisor Mode**。主動監控 DMN/TPN 的切換結構，像工程師一樣覺察內外應力的累積。
+* **Knob D (Chemical Camouflage):** 主動利用生化旋鈕 (NE, DA, 5-HT) 短期改變大腦相態。例如利用截止線人為注入 NE (冷卻淬火) 逼迫大腦進入低熵執行相 (S/J)，或降低 NE 讓大腦解凍昇華為高熵創造相 (N/P)。
 
 ---
 

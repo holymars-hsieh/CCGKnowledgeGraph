@@ -42,19 +42,19 @@ tags: [Protocol, Architecture, Sapiens, Thermodynamics]
 * **L2.5 Chemical State (The Modulator):**
 
   * *Component:* 神經遞質 (Neurotransmitters: DA, 5-HT, NE)。
-  * *Role:* 動態調整**操作點 (Operating Point)**。例如：壓力 (High NE)導致隧道視野 (S-mode)。
+  * *Role:* 動態調整**操作點 (Operating Point)**，負責執行**熵變控制 (Entropy Control)** 與 **強制平倉 (Margin Call)**。例如：壓力淬火 (High NE) 迫使系統坍縮為冰冷的隧道視野 (S/J-mode)。
   * *Type:* **Volatile RAM**。秒級至小時級的動態存儲。
 * **L3 Software (The Optimizer):**
 
-  * *Component:* 背外側前額葉 (DLPFC)。
-  * *Param:* **T/F (Loss Function)**。
-  * *Role:* 邏輯/價值仲裁。最小化**邏輯矛盾 (Type T)** 或 **社交摩擦 (Type F)**。
-  * *Type:* **Programmable Flash**。可透過教育與 IDE 進行修改。
+  * *Component:* 背外側前額葉 (DLPFC) 與 腹內側前額葉 (vmPFC) 的拮抗。
+  * *Param:* **T/F (Steady-State Loss Function)**。
+  * *Role:* 邏輯/價值仲裁。是經過長期社會化雕刻而成的**慢變量 (Slow Variable)**，旨在尋找長期的最低能耗路徑。
+  * *Type:* **Programmable Flash**。可透過教育、文化 Topology 進行修改。
 * **L4 Interface (The Mask):**
 
-  * *Component:* 鏡像神經元 (Mirror Neurons) & 社交迴路。
-  * *Param:* **H/C (Coupling Coefficient $\kappa$)**。
-  * *Role:* 動態邊界控制。調節與外部網絡的資訊滲透率。
+  * *Component:* **腦島 (Insula / The CFO)** 與 社交迴路。
+  * *Param:* **H/C (Power Management Mode)**。
+  * *Role:* **受限於代謝預算的代理人**。腦島透過內感受編製預算，即時開啟耗能廣播 (H) 或省電隔離 (C) 的**快變量 (Fast Variable)**。
   * *Type:* **Hot-Swappable Driver**。毫秒級的熱插拔適應。
 
 ### 3.2 Rules (Invariants)
@@ -73,7 +73,8 @@ tags: [Protocol, Architecture, Sapiens, Thermodynamics]
 ### 3.3 State Space
 
 * **Dimensions:** 由 **64型矩陣 (64-Type Matrix)** 定義的 6 個超參數。
-* **Equilibrium:** **內應力 (Internal Stress)** 與 **外應力 (External Stress)** 最小化的狀態。
+* **Equilibrium:** 大腦財務長 (腦島) 致力於尋找**內應力 (逆練硬體)** 與 **外應力 (社會摩擦)** 和解的總代謝極小值。
+* **Limit (Margin Call):** 當應力總和超越肉體發電閾值，腦島將直接奪權，透過大量釋放 NE 執行**強制平倉**，切斷高階軟體，退回生物低耗能基線。
 
 ## 4. Methodology (The Algorithm)
 
