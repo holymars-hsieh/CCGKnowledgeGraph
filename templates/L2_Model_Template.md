@@ -13,21 +13,8 @@ maturity: [Hypothesis | Phenomenology | Mechanism]
 
 ## 2. Isomorphism (The Mapping)
 
-> *Choose one path based on research maturity:*
-
-### A. Phenomenological (Black Box)
-
-> *"I see the pattern, but the hardware is unknown."*
-
 * **Metaphor:** "This behaves like a [Thermodynamic Engine / Ecological Niche / Market Ticker]."
 * **Input/Output:** What goes in? What comes out?
-
-### B. Mechanistic (White Box)
-
-> *"I know the physical/biological substrate."*
-
-* **Physical Grounding:** Detailed mapping to hardware (e.g., Dopamine Receptors, TCP/IP Packets, Supply Chains).
-* **Conservation Laws:** What quantities are conserved? (Energy, Momentum, Capital).
 
 ## 3. System Architecture
 
