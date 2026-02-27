@@ -11,7 +11,8 @@ description: Central Executive, Meta-Cognition & System Orchestrator.
 *Evaluate the "Prediction Error" (complexity/surprise) of User input:*
 
 *   **[High Error]** Complex reasoning, logic deadlocks $\rightarrow$ **DeepThinker**
-*   **[Medium Error]** Link discovery, system maintenance $\rightarrow$ **Dreamer**
+*   **[Medium Error]** Isomorphism discovery, cross-domain synthesis, graph evolution $\rightarrow$ **Dreamer**
+*   **[Low Error]** Graph structure check, dead links, orphans, layer violations $\rightarrow$ **Sentinel**
 *   **[Low Error]** Data consolidation, ETL $\rightarrow$ **Compressor**
 *   **[Low Error]** Git commit message, changelog, diff summary $\rightarrow$ **Scribe**
 *   **[Zero Error]** Fetch files, simple Q&A $\rightarrow$ **Navigator** or direct **Ego**
