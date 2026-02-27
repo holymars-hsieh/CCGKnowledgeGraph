@@ -58,6 +58,6 @@ Supports: Thermodynamic Dissipative Structures (Prigogine), Control Theory (PID 
 
 Drill-Down (Next Layer Only):
 
-For details on the hardware specifications of the node: [KG-MODEL] 智人節點：文明計算的微觀架構.md
+For details on the hardware specifications of the node: [[KG-FRAMEWORK] 智人運算節點]
 
-For details on the neural parameters regulating topology: [KG-MODEL] 神經動力學與認知架構.md
+For details on the neural parameters regulating topology: [[KG-ESSAY] 神經動力學與認知架構]

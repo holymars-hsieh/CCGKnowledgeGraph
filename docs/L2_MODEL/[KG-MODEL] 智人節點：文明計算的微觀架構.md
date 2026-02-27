@@ -75,5 +75,5 @@ maturity: Mechanism
 **Related Concepts:**
 
 * [[KG-MODEL] 社會拓撲：文明計算圖的宏觀架構]
-* [[KG-ESSAY] 智人節點的超參數設定]
+* [[KG-ESSAY] 性格分析的神經動力學解釋]
 * [[KG-ESSAY] 神經動力學與認知架構]

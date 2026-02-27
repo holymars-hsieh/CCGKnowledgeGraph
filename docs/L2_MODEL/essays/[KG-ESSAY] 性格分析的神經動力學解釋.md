@@ -1,4 +1,4 @@
-# 智人節點的超參數設定 (Hyperparameter Settings of Sapiens Nodes)
+# 性格分析的神經動力學解釋 (Neurodynamic Explanation of Personality Analysis)
 
 > 「你的性格，並非隨機的心理標籤，而是大腦在權衡能量效率與運算精度時所形成的超參數配置。」
 

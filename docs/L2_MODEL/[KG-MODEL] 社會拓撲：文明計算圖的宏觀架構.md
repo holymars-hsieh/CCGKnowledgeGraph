@@ -34,7 +34,7 @@ Social Topology: The Macro Architecture of the Civilization Computation Graph
 
 參照指引：
 
-關於智人內部的詳細硬體規格、五層神經運作機制（Level 1-5）以及微觀 GANs 邏輯，請參閱配套文件 [KG-MODEL] 智人節點：文明計算的微觀架構。本文件僅討論其作為黑盒子的宏觀輸入輸出特性。
+關於智人內部的詳細硬體規格、運作機制以及微觀 GANs 邏輯，請參閱框架文件 [[KG-FRAMEWORK] 智人運算節點] 以及運作細則 [[KG-MODEL] 智人節點的運作法則]。本文件僅討論其作為黑盒子的宏觀輸入輸出特性。
 
 ### 1.3 L7：絕對物理規則 (The Absolute Laws / Physics)
 
@@ -84,7 +84,7 @@ L6 通過創造虛擬概念，將 L7 的物理限制轉化為 L5 可以理解並
 
 ## 第三章：智人節點的內在動力 (Layer 5a - Internal Dynamics)
 
-「內修」：神經參數差異：關於不同型號節點的參數差異，請參閱 [KG-MODEL] 智人節點的超參數設定。，深入解析 L5 節點如何透過微調內部的六維參數矩陣，來最小化與 L0/L7 之間的預測誤差。個體的性格差異，本質上是為了適應不同計算任務而形成的硬體特異化 (Hardware Specialization)。
+「內修」：神經參數差異：關於不同型號節點的參數差異，請參閱 [KG-ESSAY] 性格分析的神經動力學解釋。，深入解析 L5 節點如何透過微調內部的六維參數矩陣，來最小化與 L0/L7 之間的預測誤差。個體的性格差異，本質上是為了適應不同計算任務而形成的硬體特異化 (Hardware Specialization)。
 
 ### 3.1 修昔底德方程 (The Thucydides Equation 2.0)
 
