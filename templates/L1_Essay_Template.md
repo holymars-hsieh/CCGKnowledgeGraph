@@ -11,23 +11,20 @@ status: draft
 
 ---
 
-## 1. Context (The Problem Space)
-*   **The Void:** What was missing before this framework existed?
-*   **The Need:** Why do we need a protocol here?
+<!-- WRITING GUIDE (delete this block before publishing)
 
-## 2. Mechanism (How it Works)
-*   *Explain the rules and interactions in plain language.*
-*   *Use analogies (e.g., Traffic Lights, TCP/IP).*
+Structure is free-form. Suggested flow:
 
-## 3. Dynamics (The Flow)
-*   *Describe how entities interact over time.*
-*   *What are the stable states?*
+1. CONTEXT — What void existed before this framework? Why does the reader need it?
+2. MECHANISM — Explain the rules and interactions in plain language. Use analogies.
+3. DYNAMICS — Describe how entities interact over time. What are the stable states?
+4. IMPLICATIONS — How does this govern L2 Models? Real-world examples.
 
-## 4. Implications (The Impact)
-*   *How does this govern L2 Models?*
-*   *Real-world examples of this framework in action.*
+Section titles should be narrative-driven, not template-driven.
+-->
 
 ---
 
 **Related Frameworks:**
+
 *   [[KG-FRAMEWORK] Framework A]

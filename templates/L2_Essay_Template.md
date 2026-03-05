@@ -11,31 +11,22 @@ status: draft
 
 ---
 
-## 1. Introduction (The Hook)
-*   **Context:** Why is this topic relevant now? Connect to the reader's experience.
-*   **Thesis:** What is the core argument or insight of this essay?
+<!-- WRITING GUIDE (delete this block before publishing)
 
-## 2. Core Argument (The Narrative)
-*   *Write freely here. Use subsections as needed.*
-*   *Focus on flow, storytelling, and connecting dots.*
-*   *Use analogies and metaphors to explain complex L2 models.*
+Structure is free-form. Suggested flow:
 
-### 2.1 [Sub-point 1]
-...
+1. HOOK — Why is this topic relevant? Connect to the reader's experience. State the core insight.
+2. CORE ARGUMENT — Write freely. Use analogies and metaphors to explain L2 models.
+   Subsections as needed.
+3. PRACTICAL IMPLICATIONS — How does this theory apply to real life? Mindset shifts.
+4. CONCLUSION — Summarize the journey. End with a thought-provoking statement.
 
-### 2.2 [Sub-point 2]
-...
-
-## 3. Practical Implications (The So What?)
-*   How does this theory apply to real life?
-*   Actionable advice or "mindset shifts".
-
-## 4. Conclusion (The Insight)
-*   Summarize the journey.
-*   End with a strong, thought-provoking statement.
+Section titles should be narrative-driven, not template-driven.
+-->
 
 ---
 
 **Related Models:**
+
 *   [[KG-MODEL] Model A]
 *   [[KG-MODEL] Model B]
