@@ -2,10 +2,8 @@
 layer: L3_CASE
 type: essay
 tags: [Essay, Narrative, Popularization]
-status: draft
 ---
-
-# [KG-ESSAY] {{Title}}
+# [KG-ESSAY]}
 
 > **Subtitle / Hook**: *A compelling one-sentence insight that captures the reader's curiosity.*
 
@@ -27,4 +25,4 @@ Section titles should be narrative-driven, not template-driven.
 
 **Related Concepts:**
 
-*   [[KG-MODEL or KG-FRAMEWORK link]]
+* [[KG-MODEL or KG-FRAMEWORK link]]

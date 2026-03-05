@@ -13,20 +13,8 @@ description: ETL Engine for Knowledge Compression & Quality Assurance.
 
 * **L0_AXIOM** (Universal Truths): `templates/L0_Axiom_Template.md` $\rightarrow$ `docs/L0_AXIOM/`
 * **L1_FRAMEWORK** (Protocols/Systems): `templates/L1_Framework_Template.md` $\rightarrow$ `docs/L1_FRAMEWORK/`
-* **L1_ESSAY** (Narrative Explanations): `templates/L1_Essay_Template.md` $\rightarrow$ `docs/L1_FRAMEWORK/essays/`
 * **L2_MODEL** (Domain Theories): `templates/L2_Model_Template.md` $\rightarrow$ `docs/L2_MODEL/`
-* **L2_ESSAY** (Deep Dives): `templates/L2_Essay_Template.md` $\rightarrow$ `docs/L2_MODEL/essays/`
 * **L3_CASE** (Theory Application): `templates/L3_Case_Template.md` $\rightarrow$ `docs/L3_CASE/`
-* **L3_ESSAY** (Accessible Narrative): `templates/L3_Essay_Template.md` $\rightarrow$ `docs/L3_CASE/essays/`
-* **L3_ARTICLE** (Rigorous Tech Article): `templates/L3_Article_Template.md` $\rightarrow$ `docs/L3_CASE/articles/`
-
-### L3 Type Decision Guide
-
-| Input characteristics                                                | Assign as      |
-| -------------------------------------------------------------------- | -------------- |
-| Structured analysis applying a KG framework to a phenomenon          | `L3_CASE`    |
-| Story-first narrative introducing a concept via everyday example     | `L3_ESSAY`   |
-| Argument-driven article with explicit claims and supporting evidence | `L3_ARTICLE` |
 
 ## 2. ETL Execution Pipeline
 

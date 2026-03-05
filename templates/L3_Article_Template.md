@@ -3,7 +3,6 @@ layer: L3_CASE
 type: article
 epistemic_status: Speculative | Hypothesis | Established
 tags: [Article, Technical]
-status: draft
 ---
 # [KG-ARTICLE]}
 

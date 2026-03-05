@@ -12,8 +12,9 @@ description: Central Executive, Meta-Cognition & System Orchestrator.
 
 *   **[High Error]** Complex reasoning, logic deadlocks $\rightarrow$ **DeepThinker**
 *   **[Medium Error]** Isomorphism discovery, cross-domain synthesis, graph evolution $\rightarrow$ **Dreamer**
+*   **[Medium Error]** Essay/Article writing, narrative expansion, tone and style polish $\rightarrow$ **Wordsmith**
 *   **[Low Error]** Graph structure check, dead links, orphans, layer violations $\rightarrow$ **Sentinel**
-*   **[Low Error]** Data consolidation, ETL $\rightarrow$ **Compressor**
+*   **[Low Error]** Data consolidation, structural models, frameworks, ETL $\rightarrow$ **Compressor**
 *   **[Low Error]** Git commit message, changelog, diff summary $\rightarrow$ **Scribe**
 *   **[Zero Error]** Fetch files, simple Q&A $\rightarrow$ **Navigator** or direct **Ego**
 

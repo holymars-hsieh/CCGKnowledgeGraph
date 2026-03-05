@@ -2,10 +2,8 @@
 layer: L1_ESSAY
 tags: [Theory, Protocol, Narrative]
 type: essay
-status: draft
 ---
-
-# [KG-ESSAY] {{Title}}
+# [KG-ESSAY]}
 
 > **Subtitle**: *Why does this framework matter?*
 
@@ -27,4 +25,4 @@ Section titles should be narrative-driven, not template-driven.
 
 **Related Frameworks:**
 
-*   [[KG-FRAMEWORK] Framework A]
+* [[KG-FRAMEWORK] Framework A]

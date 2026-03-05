@@ -2,10 +2,8 @@
 layer: L2_ESSAY
 tags: [Theory, Explanation, Narrative]
 type: essay
-status: draft
 ---
-
-# [KG-ESSAY] {{Title}}
+# [KG-ESSAY]}
 
 > **Subtitle / Hook**: *A compelling one-sentence summary or quote that captures the essence of the essay.*
 
@@ -28,5 +26,5 @@ Section titles should be narrative-driven, not template-driven.
 
 **Related Models:**
 
-*   [[KG-MODEL] Model A]
-*   [[KG-MODEL] Model B]
+* [[KG-MODEL] Model A]
+* [[KG-MODEL] Model B]
