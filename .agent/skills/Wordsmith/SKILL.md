@@ -26,6 +26,10 @@ description: Narrative Refiner — Polishes tone, rhythm, and structural aesthet
 ## 3. Execution Strategy
 
 1. **Analyze:** Diagnose baseline (e.g., "fluffy rhetoric", "unstructured").
-2. **Apply Style:** Inject physics/computation vocabulary & structural formatting.
-3. **Revise & Annotate:** Output text & briefly explain intent.
-4. **Iterate:** Prompt for user feedback before the next section.
+2. **Lexicon Retrieval & Anchoring (Anti-Drift):**
+   - **Locate:** Search `docs/*/Lexicon/`.
+   - **Semantic Uncertainty:** Invoke **Rosetta** if a term's query vector hits a non-existent latent space (out-of-distribution semantics).
+   - **Nomenclature Aesthetics:** Prioritize grounded, established nomenclature over ad-hoc neologisms. If a neo-term is required for structural precision, anchor it via **Rosetta** protocol.
+3. **Apply Style:** Inject physics/computation vocabulary & structural formatting.
+4. **Revise & Annotate:** Output text & briefly explain intent.
+5. **Iterate:** Prompt for user feedback before the next section.
