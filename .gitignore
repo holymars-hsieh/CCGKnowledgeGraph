@@ -1,3 +1,5 @@
 .agent/scripts
 draft/
 artifacts/
+.agent/skills/DeepThinker/deepthinker_memory.md
+.agent/skills/Dreamer/dreamer_memory.md
